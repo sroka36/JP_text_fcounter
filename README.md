@@ -1,2 +1,2 @@
 # JP_text_fcounter
-Counting frequency of text in files.
+Counting frequency of Japanese text in files.
